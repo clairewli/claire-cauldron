@@ -1,4 +1,12 @@
 {
+  "config": {
+    "manifest": {
+      "override": {
+         "url": "git@github.com:clairewli/claire-cauldron.git",
+         "type": "partial"
+       }
+     }
+  },
   "nativeApps": [
     {
       "name": "CodePush48",
