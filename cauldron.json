@@ -2,7 +2,12 @@
   "nativeApps": [
     {
       "name": "CodePush48",
-      "platforms": []
+      "platforms": [
+        {
+          "name": "ios",
+          "versions": []
+        }
+      ]
     }
   ]
 }
